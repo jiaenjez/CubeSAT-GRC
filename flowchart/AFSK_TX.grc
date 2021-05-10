@@ -361,7 +361,7 @@ blocks:
     digital_bandw_ch0: '0'
     digital_bandw_ch1: '0'
     filename: ''
-    gain_dB_ch0: '70'
+    gain_dB_ch0: '45'
     gain_dB_ch1: '30'
     length_tag_name: ''
     nco_freq_ch0: '0'
