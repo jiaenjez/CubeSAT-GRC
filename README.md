@@ -10,12 +10,12 @@ Homebrew installs `pip` pointing to the Homebrew’d Python 3 for you
 ### Install GNURadio
 `brew install gnuradio`
 ### Running GNURadio for the first time
-In terminal do `open .zshrc`
+In terminal `open .zshrc`
 
 Append this line `alias grc="gnuradio-companion"`
 
 Save and close file
 
-Restart terminal and do `grc`
+Restart terminal `grc`
 ### Run Volk_Profile
 `volk_profile`
